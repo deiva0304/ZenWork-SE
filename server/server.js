@@ -15,7 +15,7 @@ connectDB();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://zenwork-workplace-wellness.vercel.app', // Your Vercel frontend URL
+  'https://zenwork-workplace-wellness-fawn.vercel.app', // Your Vercel frontend URL
   'https://www.zenwork.app' // Add any additional domains
 ];
 
